@@ -18,4 +18,8 @@ Anotações técnicas sobre desenvolvimento de software, automação e publicaç
 - [Plugin Telegram no Windows](claude-code/plugin-telegram-windows.md): instalação do plugin, dependência do Bun via winget, token do bot, pareamento e allowlist.
 - [Usar a skill moodle-plugin](claude-code/usar-skill-moodle-plugin.md): instalação, quando é carregada e como usá-la para desenvolver, revisar, documentar e publicar plugins Moodle.
 
+### Integrações
+
+- [Lições: APIs paginadas, valores renomeados e regras geradas](integracoes/licoes-integracao-apis-regras.md): causas encadeadas que fazem uma integração falhar em silêncio e como investigar; explicação de regras do rule-engine em blocos.
+
 Veja também, na seção IFRN, o [deploy de tema WordPress com Helm e GitHub Actions](../ifrn/infraestrutura/deploy-wordpress-helm-github-actions.md).
