@@ -121,6 +121,7 @@ nav:
           - Bloqueio e edição de CPF e campos de perfil: ifrn/ava/edicao-bloqueio-cpf-campos-perfil-moodle.md
           - Usuários sem nome no Moodle Aberto (OAuth 2): ifrn/ava/usuarios-sem-nome-oauth2-moodle-aberto.md
           - Usuários sem e-mail no Moodle e SUAP: ifrn/ava/tratamento-usuarios-sem-email-moodle-suap.md
+          - Cursos com autoinscrição que não aparecem: ifrn/ava/autoinscricao-cursos-nao-aparecem-painel-ava.md
           - Diário, notas e secretaria: ifrn/ava/configuracao-diario-notas-professor-secretaria.md
           - Modelos de disciplinas e restauração: ifrn/ava/disciplinas-modelos-restauracao.md
           - Anotação em PDF e acessibilidade: ifrn/ava/anotar-pdf-acessibilidade-moodle.md
@@ -167,6 +168,8 @@ nav:
       - Claude Code:
           - Plugin Telegram no Windows: desenvolvimento/claude-code/plugin-telegram-windows.md
           - Usar a skill moodle-plugin: desenvolvimento/claude-code/usar-skill-moodle-plugin.md
+      - Integrações:
+          - "Lições: APIs paginadas, valores renomeados e regras geradas": desenvolvimento/integracoes/licoes-integracao-apis-regras.md
   - Sobre:
       - Como Contribuir: contribuindo.md
       - Política de Segurança: seguranca.md
